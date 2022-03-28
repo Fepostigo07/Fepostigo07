@@ -2,4 +2,3 @@
 - 👀 Eu estou interessado em aprender a programar
 - 🌱 Eu estou aprendendo a programar linguagens de Javascript e Stratch
 - 📫 Contato por [email] (fesilvapostigo2007@gmail.com)
-
